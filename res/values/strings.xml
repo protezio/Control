@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Control</string>
+    <string name="action_settings">Versione</string>
+     <string name="action_update">Aggiorna</string>
+	<string name="k1">K1</string>
+	<string name="k2">K2</string>
+	<string name="k3">K3</string>
+	<string name="k4">K4</string>
+	<string name="on">ON</string>
+	<string name="off">OFF</string>
+	<string name="Led">Led</string>
+	<string name="update">Aggiorna</string>
+	
+	
+	
+</resources>
